@@ -1,0 +1,4 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "git.enableCommitSigning": false
+}
